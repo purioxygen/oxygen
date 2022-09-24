@@ -1,5 +1,5 @@
 #include<stdio.h>
-int add(int x,int y)
+int add(int x,int y) //自定义一个add函数
 {
   int z=x+y;
   return z;
