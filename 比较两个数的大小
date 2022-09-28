@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int num1=1;
+    int num2=3;
+    int max=0;
+    max=(a>b?a:b);
+    if(a>b)
+         max=a;
+    else
+        max=b;
+     return 0;
+}
