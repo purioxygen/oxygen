@@ -1,0 +1,16 @@
+#include<stdio .h>
+//打印乘法口诀表
+
+int main()
+{
+int i=0;
+//确定打印9行
+int j=1;
+for(j=1:j<=i;j++)
+{
+printf("%d*%d=%-2d,i,j,i*j)  //%2d打印出来两位数，若只有一位数前面空出一格，数字右对齐；%-2d加个符号，数字左对齐
+}
+printf("\n");
+}
+return 0;
+}
